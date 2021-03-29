@@ -1,0 +1,19 @@
+{
+  "name": "drag_n_drop_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hamo225/drag_n_drop_api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hamo225/drag_n_drop_api/issues"
+  },
+  "homepage": "https://github.com/hamo225/drag_n_drop_api#readme"
+}
